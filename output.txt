@@ -1,0 +1,1 @@
+/corpora/LDC/LDC99T42/RAW/parsed/prd/wsj/14/	S: 4670 NP: 13221 VP: 7920 DVP: 5 IVP: 119
