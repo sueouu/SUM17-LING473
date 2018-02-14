@@ -1,4 +1,4 @@
-# STATS Problem Set II
+# STATS Problem Set III
 
 See pdf files for details.
  
